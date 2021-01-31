@@ -1,0 +1,5 @@
+client: true # Keep Client Enabled While IteratorChar
+
+proc "Process Is still iterating"
+
+arise Sorry, Error.\n
